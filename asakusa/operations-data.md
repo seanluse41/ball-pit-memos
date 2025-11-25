@@ -28,3 +28,22 @@
 ### Notes
 - Observation made during a national holiday, which may represent higher-than-typical attendance
 - Revenue calculation based on snapshot attendance at 12:30 PM
+
+---
+
+**Date:** November 24, 2025 (Monday - National Holiday)
+**Time:** 2:00 PM
+
+### Attendance
+- Children: 45-55
+- Adults: 40-45
+- Staff on duty: 3
+
+### Revenue Estimate
+- **Minimum:** ¥49,500 (assumes all children on 1-hour plan)
+- **Maximum:** ¥84,000 (assumes all children on 3-hour plan)
+- **Range:** ¥49,500 - ¥84,000
+
+### Notes
+- Observation shows increased attendance compared to 12:30 PM reading
+- Peak afternoon period with higher adult-to-child ratio
