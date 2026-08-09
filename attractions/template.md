@@ -1,8 +1,5 @@
 # <Attraction Name>
 
-## Type
-[slide / ball zone / toy / game / interactive / other]
-
 ## Description
 [what is it?]
 
